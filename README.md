@@ -1,7 +1,16 @@
 # useful-links
 Conhecimentos em geral:
 
+Matemática:
+
 https://ciechanow.ski (Blog com diversas fórmulas e demonstrações, de física a CG)
+
+https://textbooks.math.gatech.edu/ila/index2.html (Álgebra linear interativa)
+
+http://immersivemath.com/ila/index.html (Mais álgebra linear interativa)
+
+https://www.jezzamon.com/fourier/ (Uma introdução interativa às transformações de Fourier)
+
 
 Programação em geral:
 
