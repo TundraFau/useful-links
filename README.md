@@ -1,4 +1,7 @@
 # useful-links
+Conhecimentos em geral:
+
+https://ciechanow.ski (Blog com diversas fórmulas e demonstrações, de física a CG)
 
 Programação em geral:
 
@@ -53,6 +56,7 @@ https://www.youtube.com/watch?v=j-A0mwsJRmk (SIGGRAPH University - Introduction 
 https://ceciliavision.github.io/graphics/a6/ (implementação de raytracer espectral (ou seja, usa ondas pra calcular cores ao invés de rgb))
 
 https://www.3dgep.com/understanding-quaternions/ (explicação de quarternions)
+
 
 
 ---------------------
